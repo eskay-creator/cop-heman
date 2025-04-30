@@ -1,0 +1,72 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background to complement yellow and blue */
+}
+
+/* Header Styles */
+header {
+    background-color: #0056b3; /* Deep Blue */
+    color: #ffd700; /* Golden Yellow for text */
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffd700; /* Golden Yellow links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Section Styles */
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: #ffd700; /* Yellow background for sections */
+    color: #0056b3; /* Blue text */
+    border-radius: 8px;
+}
+
+/* Button Styles */
+button {
+    background-color: #0056b3; /* Blue background */
+    color: #ffd700; /* Yellow text */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #003a80; /* Slightly darker blue for hover effect */
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #0056b3; /* Deep Blue */
+    color: #ffd700; /* Golden Yellow text */
+    font-size: 14px;
+    border-top: 2px solid #ffd700; /* Yellow border */
+}

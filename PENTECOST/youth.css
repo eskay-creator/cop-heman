@@ -1,0 +1,38 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfd96; /* Bright yellow for energetic youth vibes */
+}
+
+/* Header Styles */
+header {
+    background-color: #0056b3;
+    color: #ffd700;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); /* Add a modern shadow */
+}
+
+/* Section Styles */
+section {
+    padding: 25px;
+    margin: 15px;
+    background-color: #ffd700; /* Bold yellow */
+    color: #0056b3; /* Blue text */
+    border-radius: 15px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #0056b3;
+    color: #ffd700;
+    text-align: center;
+    padding: 10px;
+}
+
+/* List Styling */
+ul {
+    list-style: square;
+    font-size: 18px; /* Slightly larger text for emphasis */
+}
